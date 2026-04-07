@@ -8,5 +8,6 @@
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="src" path="LearnTheBasics"/>
 	<classpathentry kind="src" path="ImportantSortingTechniques"/>
+	<classpathentry kind="src" path="SolveProblemOnArray"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
